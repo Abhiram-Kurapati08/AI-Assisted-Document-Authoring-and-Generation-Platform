@@ -112,3 +112,4 @@ The application will be available at `http://localhost:5173`.
 *   **Backend**: FastAPI, SQLAlchemy, Pydantic
 *   **Database**: PostgreSQL
 *   **AI/LLM**: Ollama (Local), Google Gemini (Cloud)
+
