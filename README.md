@@ -13,7 +13,7 @@ Draftly is a powerful platform that leverages Large Language Models (LLMs) to he
 *   **Python 3.10+**
 *   **Node.js 18+**
 *   **PostgreSQL** (Local or Cloud)
-*   **Ollama** (for local LLM support) or an API Key for Gemini/OpenAI.
+*   **Ollama** (for local LLM support) 
 
 ## Installation & Setup
 
@@ -65,8 +65,7 @@ LLM_PROVIDER=ollama
 OLLAMA_BASE_URL=http://127.0.0.1:11434
 OLLAMA_MODEL=llama3.2
 
-# If using Gemini
-# GEMINI_API_KEY=your_gemini_api_key
+
 ```
 
 Run database migrations (if applicable) or let the app create tables on startup.
